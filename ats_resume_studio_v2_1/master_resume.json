@@ -1,0 +1,60 @@
+{
+  "name": "Aaron Bryant",
+  "headline": "IT Support | Help Desk | Technical Support",
+  "contact": "8015036673 aaronjb9@gmail.com",
+  "summary": "IT support candidate with hands-on experience troubleshooting Windows, hardware, software, and peripheral issues, building and upgrading PCs, and providing technical assistance to users. Brings four years of incident response, investigation, escalation, and documentation experience, complemented by a strong background in customer support and employee training. Skilled at diagnosing problems, troubleshooting, technical support, windows, hardware, networking, support developing SOPs, and explaining technical solutions to non-technical users. CompTIA A+ Core 1 certified, pursuing Core 2 certification, and seeking an entry-level Help Desk or Desktop Support position.",
+  "skills": [
+    "Troubleshooting & Technical Support: Hardware and software troubleshooting, technical support, issue diagnosis, problem resolution, incident management, escalation",
+    "Operating Systems: Microsoft Windows, Windows troubleshooting, software installation and configuration, operating system support",
+    "Hardware & Peripherals: PC building and upgrades, hardware diagnostics, peripheral setup, computer repair, device configuration",
+    "Networking: Basic networking, network connectivity troubleshooting, TCP/IP fundamentals, Wi-Fi troubleshooting, network devices",
+    "IT Support Practices: Help desk support, desktop support, ticket documentation, issue tracking, technical documentation, user assistance",
+    "Tools & Communication: Microsoft Teams, remote collaboration, customer service, user training, technical communication"
+  ],
+  "experience": [
+    {
+      "title": "Independent IT Support Technician",
+      "company": "Independent Experience",
+      "dates": "2021–Present",
+      "bullets": [
+        "Diagnose and troubleshoot Windows operating system, hardware, software, and peripheral issues.",
+        "Build, upgrade, repair, and configure desktop computers based on user requirements, performance needs, and budget.",
+        "Install and configure operating systems, software applications, computer components, and peripherals.",
+        "Troubleshoot basic networking and connectivity issues, including Wi-Fi and device configuration.",
+        "Identify technical problems, investigate possible causes, and implement appropriate solutions.",
+        "Provide technical guidance to users, explaining solutions and troubleshooting procedures in clear, accessible language.",
+        "Recommend hardware upgrades and software solutions to improve system performance, reliability, and usability."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "AI-Assisted Resume & PDF Editor",
+      "bullets": [
+        "Developed a desktop application using AI-assisted programming to create, edit, save, and export resumes as PDF documents.",
+        "Implemented document management and PDF generation functionality to streamline resume creation and formatting.",
+        "Applied problem-solving and iterative testing to refine application functionality and improve usability."
+      ]
+    },
+    {
+      "title": "Printer & iPhone Connectivity Troubleshooting",
+      "bullets": [
+        "Investigated and troubleshot printer and iPhone connectivity and encryption-related issues.",
+        "Diagnosed configuration and device communication problems, tested potential solutions, and worked to restore expected functionality.",
+        "Applied systematic troubleshooting techniques to identify potential causes and resolve technical issues."
+      ]
+    },
+    {
+      "title": "MP3 & MP4 Media Converter",
+      "bullets": [
+        "Developed an application with AI-assisted programming to convert digital media files between MP3 audio and MP4 video formats.",
+        "Explored file conversion workflows, media formats, and application functionality through development and testing.",
+        "Used iterative troubleshooting to identify and address software issues during development."
+      ]
+    }
+  ],
+  "certifications": [
+    "CompTIA A+ Core 1 — Passed",
+    "CompTIA A+ Core 2 — Passed"
+  ]
+}
